@@ -2,14 +2,14 @@
 
 Nosotros, la comunidad de Codeando México, nos comprometemos a mantener
 un entorno sin abusos para todo el mundo, sin importar sexo, identidad u orientación
-sexuales, discapacidad, aspecto físico, edad, raza, nacionalidad
+sexual, discapacidad, aspecto físico, edad, raza, nacionalidad
 o creencias religiosas.
 No toleraremos el acoso a miembros de la comunidad bajo ningún concepto.
 Los participantes que violen estas reglas pueden ser sancionados o expulsados
 de la comunidad a discreción del equipo central de Codeando México y los líderes de comunidades locales.
 
 Las formas de acoso incluyen comentarios ofensivos, orales o escritos,
-relacionados con sexo, identidad u orientación sexuales, discapacidades,
+relacionados con sexo, identidad u orientación sexual, discapacidades,
 aspecto físico, edad, raza, nacionalidad o creencias religiosas,
 intimidación, amenazas, persecución, acecho, fotografías o grabaciones abusivas,
 y atenciones sexuales no gratas.
@@ -20,8 +20,8 @@ conducta abusiva deben obedecer inmediatamente.
 Los patrocinadores y presentadores están también sujetos al código de conducta.
 
 Si un miembro de la comunidad mostrara cualquier conducta abusiva,
-los organizadores de Nodeschool Ciudad de México pueden tomar cualquier acción
-que crean apropiada, incluyendo avisar llamarle la atención o expulsarlo
+los organizadores de Codeando México pueden tomar cualquier acción
+que crean apropiada, incluyendo llamarle la atención o expulsarlo
 de la comunidad. Si eres víctima de conductas abusivas, ves a otra persona
 que está siendo acosada, o tienes dudas, por favor contacta con el equipo
 organizador inmediatamente.
